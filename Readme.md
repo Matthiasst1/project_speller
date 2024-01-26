@@ -1,12 +1,12 @@
-# C programming project: Speller
+# Project: Speller
 
-#### Documentation of my project "Speller"
+#### Documentation of my project "Speller" in C programming language
 
 ## Motivation 
 
- This project aims to find misspelled words in a text and presents it in a resulting text file „results.txt“. It has been the final project after 6 weeks of c programming during the course CS50 of Havard University. All the functions that I wrote in C you’ll find in the file „dictionary.c“. 
+This project aims to find misspelled words in a text and present them in a resulting text file "results.txt". It was the final project after 6 weeks of C programming during the CS50 course at Harvard University. All the functions I wrote in C can be found in the file "dictionary.c". 
  
- As provided by the CS50 course „speller.c“ imports "dictionary.c". The program will make use of the text files in the folder "dictionaries" as a data base of all of the existing words. Then it will browse through the text files in the folder "texts" and store the missspelled words as "results.txt". The folder "keys" contains all results of the texts. 
+ As provided by the CS50 course, "speller.c" imports "dictionary.c". The program will use the text files in the "dictionaries" folder as a database of all existing words. It then searches the text files in the "texts" folder and saves the misspelled words as "results.txt". The "keys" folder contains all the results from the texts.
 
  ## Usage 
 
