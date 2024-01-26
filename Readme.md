@@ -1,6 +1,8 @@
 # Project: Speller
 
-#### Documentation of my project "Speller" in C programming language
+#### Documentation of my project "Speller"
+
+#### Programming language: C
 
 ## Motivation 
 
